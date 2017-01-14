@@ -1,18 +1,18 @@
 # MazeSearch
 An optimal maze solver... Pacman style.
 
-Goal #1: Find the optimal path through a maze while avoiding the ghost
+Goal #1: Find the optimal path through a maze while avoiding the deadly ghost
 
-![][smallGhost]
+![][bigGhost]
 
-Goal #2: Find the optimal path to eat all the dots
+Goal #2: Find the optimal path to eat all the food
 
 ![][tinySearch]
 
-Goal #3: Find a suboptimal path to eat all the dots on a larger maze
+Goal #3: Find a suboptimal path to eat all the food in a larger maze
 
-![][mediumDots]
+![][bigDots]
 
-[smallGhost]: https://github.com/rshaghoulian/MazeSearch/blob/master/animations/smallGhost.gif
+[bigGhost]: https://github.com/rshaghoulian/MazeSearch/blob/master/animations/bigGhost.gif
 [tinySearch]: https://github.com/rshaghoulian/MazeSearch/blob/master/animations/tinySearch.gif
-[mediumDots]: https://github.com/rshaghoulian/MazeSearch/blob/master/animations/mediumDots.gif
+[bigDots]: https://github.com/rshaghoulian/MazeSearch/blob/master/animations/bigDots.gif
